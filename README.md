@@ -50,7 +50,7 @@ Sou movido por desafios e pela constante evolução. Atualmente, estou aprofunda
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](www.linkedin.com/in/mauricio-rafael-37b586375)
+- [LinkedIn](https://www.linkedin.com/in/mauricio-rafael-37b586375)
 - [Instagram](https://www.instagram.com/mauricior_veiga/)
 - 📧 Email: mauricio.rgv15@gmail.com
 
