@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Mauricio Rafael Veiga
+# 👋 Olá! Eu sou o Mauricio Rafael
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na [Fatec Registro](https://fatecregistro.cps.sp.gov.br/)  
 💼 Técnico de Desenvolvimento de Sistemas na **Gold Credit Capital**  
