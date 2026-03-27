@@ -1,35 +1,65 @@
-# Mauricio Rafael
+<h1 align="center">Mauricio Rafael</h1>
 
-Desenvolvedor de software com atuação em soluções financeiras na [Gold Credit Capital](https://github.com/Gold-Credit-SA), participando da criação de sistemas internos, automações, integrações e APIs voltadas ao contexto operacional da empresa.
+<p align="center">
+  Desenvolvedor de Software com atuação em soluções financeiras, automações, integração de sistemas, Power BI e desenvolvimento de aplicações web.
+</p>
 
-Atualmente, também curso **Desenvolvimento de Software Multiplataforma** na **Fatec Registro-SP**, unindo prática profissional e formação acadêmica no desenvolvimento de soluções modernas, organizadas e sustentáveis.
+<p align="center">
+  Atualmente na <a href="https://github.com/Gold-Credit-SA">Gold Credit Capital</a> •
+  Estudante de Desenvolvimento de Software Multiplataforma na Fatec Registro-SP
+</p>
 
-## Sobre mim
+<p align="center">
+  <a href="https://www.linkedin.com/in/mauricio-rafael-37b586375">LinkedIn</a> •
+  <a href="https://www.instagram.com/mauricior_veiga/">Instagram</a> •
+  <a href="mailto:mauricio.rgv15@gmail.com">Email</a>
+</p>
 
-Tenho foco em desenvolvimento backend, integrações entre sistemas, automação de processos e construção de aplicações confiáveis, bem estruturadas e fáceis de evoluir.
+---
 
-Busco desenvolver soluções que gerem impacto real no dia a dia, com atenção especial à organização do código, clareza das regras de negócio e manutenção de longo prazo.
+## Perfil Profissional
 
-## Tecnologias e Ferramentas
+Atuo como desenvolvedor na **Gold Credit Capital**, contribuindo para a criação de sistemas internos, automações, integrações e ferramentas voltadas ao contexto operacional e financeiro da empresa.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+Também sou responsável pelo desenvolvimento e manutenção das soluções em **Power BI**, apoiando a visualização de indicadores, o acompanhamento de dados estratégicos e a evolução contínua da inteligência operacional da empresa.
 
-## Experiência Profissional
+Minha atuação está concentrada no desenvolvimento de soluções confiáveis, organizadas e sustentáveis, com foco em **backend**, **APIs**, **integração entre sistemas**, **tratamento de dados**, **dashboards gerenciais** e **suporte a processos de negócio**.
+
+Ao mesmo tempo, sigo em formação acadêmica no curso de **Desenvolvimento de Software Multiplataforma** na **Fatec Registro-SP**, mantendo uma evolução constante no aprendizado e no aperfeiçoamento técnico.
+
+## Competências
+
+- Desenvolvimento backend e APIs REST
+- Integração com sistemas e serviços externos
+- Automação de processos internos
+- Desenvolvimento e manutenção de dashboards em Power BI
+- Modelagem, coleta e análise de dados
+- Desenvolvimento de aplicações web
+- Organização de código, manutenção e evolução de sistemas
+
+## Stack Principal
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Power%20BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</p>
+
+## Experiência
 
 ### Gold Credit Capital
 
-Atuo como desenvolvedor no desenvolvimento de soluções internas para o setor financeiro, com foco em sistemas web, automações, integrações e ferramentas de apoio às operações da empresa.
+Atuo no desenvolvimento de soluções internas voltadas ao setor financeiro, participando da criação e manutenção de sistemas web, scripts de automação, integrações com APIs e ferramentas de apoio às operações da empresa.
 
-Meu trabalho envolve a construção de aplicações que contribuem para organização de processos, coleta e tratamento de dados e suporte às rotinas operacionais do negócio.
+Também sou responsável pelo desenvolvimento e manutenção do **Power BI** da empresa, contribuindo com dashboards, acompanhamento de indicadores e organização de informações relevantes para apoio à operação e tomada de decisão.
 
 ## Projetos em Destaque
 
@@ -39,27 +69,27 @@ Meu trabalho envolve a construção de aplicações que contribuem para organiza
 API RESTful desenvolvida com **Node.js**, **Express** e **MongoDB** para gerenciamento de times do Campeonato Brasileiro, com autenticação via **JWT** para proteção de rotas.
 
 #### [Projeto Cadastro](https://github.com/MauricioRVeiga/projeto_cadastro)
-Aplicação desktop desenvolvida com **Python**, **Tkinter** e **MongoDB Atlas** para cadastro e gerenciamento de **Pessoas**, **Veículos** e **Lugares Turísticos**, incluindo autenticação e navegação por menu principal.
+Sistema desktop desenvolvido com **Python**, **Tkinter** e **MongoDB Atlas** para cadastro e gerenciamento de **Pessoas**, **Veículos** e **Lugares Turísticos**, incluindo autenticação e navegação por menu principal.
 
-## Projetos Desenvolvidos na Gold Credit Capital
+## Projetos Desenvolvidos na Organização
 
 #### [Sistema de Votação Anônimo](https://github.com/Gold-Credit-SA/sistema-votacao)
-Aplicação web desenvolvida para votação anônima, utilizando **React**, **Supabase** e **Vercel**, com foco em segurança, usabilidade e uma interface moderna.
+Aplicação web desenvolvida para a Gold Credit Capital com **React**, **Supabase** e **Vercel**, focada em votação anônima, segurança, usabilidade e experiência moderna.
 
 #### [SCRIPTS](https://github.com/Gold-Credit-SA/SCRIPTS)
-Repositório com scripts desenvolvidos para coleta e processamento de dados a partir da API de um sistema ERP utilizado nas operações de antecipação de recebíveis da empresa.
+Conjunto de scripts desenvolvidos para coleta e processamento de dados a partir da API de um ERP utilizado nas operações de antecipação de recebíveis da empresa.
 
-## Colaboração em Outros Projetos da Organização
+## Colaboração em Outros Projetos
 
-Também participei, de forma direta ou indireta, da evolução de projetos internos da organização, em colaboração com a equipe de desenvolvimento.
+Também participei, de forma direta ou indireta, da evolução de projetos internos desenvolvidos em equipe dentro da organização.
 
 #### [Portal do Colaborador](https://github.com/Gold-Credit-SA/portal-do-colaborador)
-Portal interno voltado para comunicação, gestão operacional e acompanhamento de rotinas da equipe.
+Portal interno para comunicação, gestão operacional e acompanhamento de rotinas da equipe.
 
 #### [Operacoes GoldCredit](https://github.com/Gold-Credit-SA/operacoes-goldcredit)
-Aplicação principal da operação, reunindo funcionalidades de frontend web, consultas, integrações, CRUDs e apoio aos fluxos operacionais do negócio.
+Aplicação principal da operação, reunindo funcionalidades de frontend web, integrações, consultas, CRUDs e apoio a fluxos operacionais.
 
-## Formação Acadêmica
+## Formação
 
 **Fatec Registro-SP**  
 Curso superior em **Desenvolvimento de Software Multiplataforma**
@@ -68,4 +98,4 @@ Curso superior em **Desenvolvimento de Software Multiplataforma**
 
 - [LinkedIn](https://www.linkedin.com/in/mauricio-rafael-37b586375)
 - [Instagram](https://www.instagram.com/mauricior_veiga/)
-- Email: mauricio.rgv15@gmail.com
+- [Email](mailto:mauricio.rgv15@gmail.com)
