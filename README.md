@@ -1,14 +1,14 @@
-# Olá, sou o Mauricio Rafael !
+# Mauricio Rafael
 
-Desenvolvedor de software com atuação em soluções financeiras na [Gold Credit Capital](https://github.com/Gold-Credit-SA), com experiência no desenvolvimento de sistemas internos, automações, integrações e APIs voltadas ao contexto operacional da empresa.
+Desenvolvedor de software com atuação em soluções financeiras na [Gold Credit Capital](https://github.com/Gold-Credit-SA), participando da criação de sistemas internos, automações, integrações e APIs voltadas ao contexto operacional da empresa.
 
-Atualmente, também curso **Desenvolvimento de Software Multiplataforma** na **Fatec Registro-SP**, fortalecendo minha base em engenharia de software, arquitetura de sistemas e desenvolvimento full stack.
+Atualmente, também curso **Desenvolvimento de Software Multiplataforma** na **Fatec Registro-SP**, unindo prática profissional e formação acadêmica no desenvolvimento de soluções modernas, organizadas e sustentáveis.
 
 ## Sobre mim
 
-Tenho foco em desenvolvimento backend, integração entre sistemas, automação de processos e construção de aplicações que sejam confiáveis, organizadas e fáceis de evoluir.
+Tenho foco em desenvolvimento backend, integrações entre sistemas, automação de processos e construção de aplicações confiáveis, bem estruturadas e fáceis de evoluir.
 
-Busco unir prática profissional e formação acadêmica para desenvolver soluções que gerem impacto real, especialmente em cenários que exigem consistência de dados, organização de regras de negócio e manutenção sustentável.
+Busco desenvolver soluções que gerem impacto real no dia a dia, com atenção especial à organização do código, clareza das regras de negócio e manutenção de longo prazo.
 
 ## Tecnologias e Ferramentas
 
@@ -17,7 +17,6 @@ Busco unir prática profissional e formação acadêmica para desenvolver soluç
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -27,9 +26,10 @@ Busco unir prática profissional e formação acadêmica para desenvolver soluç
 ## Experiência Profissional
 
 ### Gold Credit Capital
-Atuo como desenvolvedor na construção de soluções internas para o contexto financeiro da empresa, incluindo sistemas web, automações e integrações com APIs utilizadas nas operações de antecipação de recebíveis.
 
-Meu trabalho envolve o desenvolvimento de ferramentas voltadas para apoio operacional, organização de fluxos internos e coleta/tratamento de dados para suporte às rotinas do negócio.
+Atuo como desenvolvedor no desenvolvimento de soluções internas para o setor financeiro, com foco em sistemas web, automações, integrações e ferramentas de apoio às operações da empresa.
+
+Meu trabalho envolve a construção de aplicações que contribuem para organização de processos, coleta e tratamento de dados e suporte às rotinas operacionais do negócio.
 
 ## Projetos em Destaque
 
@@ -39,15 +39,15 @@ Meu trabalho envolve o desenvolvimento de ferramentas voltadas para apoio operac
 API RESTful desenvolvida com **Node.js**, **Express** e **MongoDB** para gerenciamento de times do Campeonato Brasileiro, com autenticação via **JWT** para proteção de rotas.
 
 #### [Projeto Cadastro](https://github.com/MauricioRVeiga/projeto_cadastro)
-Aplicação desktop desenvolvida com **Python**, **Tkinter** e **MongoDB Atlas** para cadastro e gerenciamento de **Pessoas**, **Veículos** e **Lugares Turísticos**, com autenticação e menu principal.
+Aplicação desktop desenvolvida com **Python**, **Tkinter** e **MongoDB Atlas** para cadastro e gerenciamento de **Pessoas**, **Veículos** e **Lugares Turísticos**, incluindo autenticação e navegação por menu principal.
 
-### Projetos Desenvolvidos na Gold Credit Capital
+## Projetos Desenvolvidos na Gold Credit Capital
 
 #### [Sistema de Votação Anônimo](https://github.com/Gold-Credit-SA/sistema-votacao)
-Aplicação web desenvolvida para a Gold Credit Capital com foco em votação anônima, utilizando **React**, **Supabase** e **Vercel**, com interface moderna e foco em segurança e usabilidade.
+Aplicação web desenvolvida para votação anônima, utilizando **React**, **Supabase** e **Vercel**, com foco em segurança, usabilidade e uma interface moderna.
 
 #### [SCRIPTS](https://github.com/Gold-Credit-SA/SCRIPTS)
-Repositório com scripts desenvolvidos para coleta e processamento de dados via API de um sistema ERP utilizado nas operações de antecipação de recebíveis da empresa.
+Repositório com scripts desenvolvidos para coleta e processamento de dados a partir da API de um sistema ERP utilizado nas operações de antecipação de recebíveis da empresa.
 
 ## Colaboração em Outros Projetos da Organização
 
@@ -57,17 +57,12 @@ Também participei, de forma direta ou indireta, da evolução de projetos inter
 Portal interno voltado para comunicação, gestão operacional e acompanhamento de rotinas da equipe.
 
 #### [Operacoes GoldCredit](https://github.com/Gold-Credit-SA/operacoes-goldcredit)
-Aplicação principal da operação, concentrando funcionalidades de frontend web, integrações, consultas, CRUDs e fluxos operacionais de apoio ao negócio.
+Aplicação principal da operação, reunindo funcionalidades de frontend web, consultas, integrações, CRUDs e apoio aos fluxos operacionais do negócio.
 
 ## Formação Acadêmica
 
 **Fatec Registro-SP**  
 Curso superior em **Desenvolvimento de Software Multiplataforma**
-
-## Estatísticas
-
-![Mauricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioRVeiga&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioRVeiga&layout=compact&theme=default)
 
 ## Contato
 
